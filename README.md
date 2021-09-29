@@ -1,2 +1,2 @@
-# ts-game02-lottery
-あみだくじで線を引いてスライムを誘導するゲーム
+# ts-game01-matri-reflect
+ボールを反射させるゲーム
