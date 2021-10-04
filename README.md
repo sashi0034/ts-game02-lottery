@@ -1,4 +1,4 @@
-# ts-game01-matri-reflect
+# ts-game02-lottery
 あみだくじで線を引いてスライムを誘導するゲーム
 
 http://mars.kmc.gr.jp/~sashi/src/game05/
